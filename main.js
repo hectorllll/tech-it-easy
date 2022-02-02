@@ -161,3 +161,6 @@ const inventory = [
     sold: 8,
   },
 ];
+
+
+
